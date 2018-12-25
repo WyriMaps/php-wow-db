@@ -1,0 +1,3 @@
+[submodule "wowdev-dbdefs"]
+	path = wowdev-dbdefs
+	url = https://github.com/wowdev/WoWDBDefs
